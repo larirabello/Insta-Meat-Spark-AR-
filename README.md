@@ -4,4 +4,8 @@ Open files of the Insta Meat. Feel free to take it, modify and upload as a filte
 The Insta Meat effect went viral and with it I would like to invite everyone to download the source files. Modify the filter and upload it to instagram.
 
 
+# License
+
+Creative Commons Zero v1.0 Universal
+
 
